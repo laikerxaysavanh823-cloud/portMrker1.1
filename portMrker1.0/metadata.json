@@ -1,0 +1,8 @@
+{
+  "name": "portMrker",
+  "description": "ແອັບຈັດການການເງິນ ແລະ ພອດການລົງທຶນປະຈຳເດືອນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
